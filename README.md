@@ -14,4 +14,6 @@ https://twitter.com/threatinsight/status/1534227444915482625 ??
 
 https://www.securityweek.com/qbot-malware-infects-over-800-corporate-users-new-ongoing-campaign ?
 
-https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html?utm_source=substack&utm_medium=email
+https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html
+
+https://www.trendmicro.com/en_us/research/22/j/where-is-the-origin-qakbot-uses-valid-code-signing-.html
