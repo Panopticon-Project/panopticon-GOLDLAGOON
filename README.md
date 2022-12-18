@@ -19,3 +19,5 @@ https://www.trendmicro.com/en_us/research/22/j/black-basta-infiltrates-networks-
 https://www.trendmicro.com/en_us/research/22/j/where-is-the-origin-qakbot-uses-valid-code-signing-.html
 
 http://www.tidalcyber.com/blog/identifying-and-defending-against-qakbots-evolving-ttps
+
+https://blog.talosintelligence.com/html-smugglers-turn-to-svg-images/
