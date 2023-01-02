@@ -21,3 +21,5 @@ https://www.trendmicro.com/en_us/research/22/j/where-is-the-origin-qakbot-uses-v
 http://www.tidalcyber.com/blog/identifying-and-defending-against-qakbots-evolving-ttps
 
 https://blog.talosintelligence.com/html-smugglers-turn-to-svg-images/
+
+https://isc.sans.edu/diary/obama224+distribution+Qakbot+tries+vhd+virtual+hard+disk+images/29294
