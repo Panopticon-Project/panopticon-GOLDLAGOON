@@ -23,3 +23,5 @@ http://www.tidalcyber.com/blog/identifying-and-defending-against-qakbots-evolvin
 https://blog.talosintelligence.com/html-smugglers-turn-to-svg-images/
 
 https://isc.sans.edu/diary/obama224+distribution+Qakbot+tries+vhd+virtual+hard+disk+images/29294
+
+https://www.cybereason.com/blog/threat-alert-aggressive-qakbot-campaign-and-the-black-basta-ransomware-group-targeting-u.s.-companies
